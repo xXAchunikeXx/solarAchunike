@@ -1,0 +1,98 @@
+.melt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 29%;
+  border-radius: 50%;
+  height: 500px;
+}
+
+img.plants{
+  width: 200px;
+  height: 80px;
+  margin-left: 0%;
+  margin-right: 100%;
+  display: block;
+}
+
+.problem{
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  font-family: fantasy;
+  border-bottom-style: groove;
+}
+
+.fires{
+    display: block;
+    height: 500px;
+    margin-left: 0%;
+    margin-right: 100%;
+    width: 29%;
+    border-radius: 50%
+} 
+
+.crops{
+  display: block;
+  height: 500px;
+  margin-left: 100%;
+  margin-right: 0%;
+  width: 29%;
+  border-radius: 50%;
+}
+
+.row1{
+  display: inline-block;
+  animation-direction: alternate-reverse;
+}
+
+.solution{
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  font-family: fantasy;
+  border-bottom-style: groove;
+}
+
+.house{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  height: 500px;
+}
+.problem2{
+  text-align: center;
+  font-size: 40px;
+  color: black;
+  font-family: fantasy;
+  border-bottom-style: groove;
+}
+
+.expense{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  height: 500px;
+}
+
+.solar1{
+  height: 50px;
+  width: 100px;
+  margin-right: 367px;
+}
+
+.solar2{
+  height: 50px;
+  width: 100px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  margin-left: 367px;
+  
+}
+
+.row2{
+  display: inline-block;
+  margin-bottom: 30px;
+}

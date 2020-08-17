@@ -3,21 +3,24 @@
     background-attachment: fixed;
     background-color: midnightblue;
   } 
+
   h1{
-    text-shadow: 6px 6px;
+    text-shadow: 8px 8px;
     text-align: center;
     color:#FFFFFF; 
     font-size: 80px;
   }
-  h2{
+
+h2{
     font-size: 40px;
     font-style: italics;
     color:#FFFFFF;
     text-align: center;
-    
+    text-emphasis: bold;
+    border-bottom-style: groove;
   }
   
-  h3{
+h3{
     color:#FFFFFF;
     font-size: 35px;
     white-space: wrap; 
@@ -25,17 +28,8 @@
     border: 5px solid #FFFFFF;
     overflow: hidden;
     text-overflow: clip;
-    font-family: 'Homemade Apple', cursive;
+    font-family: 'Bad Script', cursive;
     text-align: center;
-  }
-
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 29%;
-    border-radius: 50%;
-    border-color: mediumturquoise;
   }
 
 h4{
@@ -59,10 +53,21 @@ h6{
     font-family: 'Sriracha', cursive;
 
 }
-  
+
+.emails{
+  color: white;
+    text-align: right;
+    font-size: 30px;
+    font-family: 'Sriracha', cursive;
+    font-weight: bold;
+}
+
 .Right{
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
 
+.shine{
+  display: inline-block;
 }
